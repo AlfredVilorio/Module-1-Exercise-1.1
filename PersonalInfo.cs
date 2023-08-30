@@ -2,7 +2,12 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
-   
+   //This shows personal information//
+    //Display - Name//
+   //Display - Birthdate//
+   //Display - Work Number//
+   //Display -Cell Number//
+    
     Console.WriteLine ("Lucinda Potter");
     Console.WriteLine ("6/24/1992");
     Console.WriteLine ("Work 000-000-0101");
